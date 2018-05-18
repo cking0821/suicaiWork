@@ -4,7 +4,7 @@
 Create 2018-05-18
 Update 2018-05-18
 Author: cking
-Github: https://github.com/cking0821
+Github: https://github.com/cking0821/suicaiWork/blob/master/readWeekExcel.py
 
 '''
 
